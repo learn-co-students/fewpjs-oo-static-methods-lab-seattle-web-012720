@@ -26,5 +26,10 @@ class Formatter {
     }
     return results.join(' ')  
   }
+  
+  /*
+  static titleize(str){
+    this.sanitize(this.capitalize(str))
+  */
 }
 
